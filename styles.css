@@ -1,1 +1,26 @@
 /*  your css code here. If applicable */
+*{
+	background-color:skyblue;
+}
+.first_para_background{
+	background-color:black;
+	color:white;
+}
+.last-para{
+      color:red;
+}
+ul>li:first-child{
+	background-color:white;
+}
+ul>li:nth-child(2){
+	background-color: gray;
+}
+ul>li:nth-child(4){
+	background-color: gray;
+}
+ul>li:nth-child(3){
+	background-color: pink;
+}
+ul>li:last-child{
+	background-color: white;
+}
